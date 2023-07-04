@@ -11,5 +11,6 @@
 		<li><b>First Name</b>: <%=request.getParameter("first_name")%></li>
 		<li><b>Last Name</b>: <%=request.getParameter("last_name")%></li>
 	</ul>
+	<a href="Home?redirect=yes">Redirect</a>
 </body>
 </html>

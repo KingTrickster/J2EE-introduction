@@ -283,3 +283,27 @@ Caused by: org.eclipse.core.runtime.CoreException: One or more constraints have 
 2023-07-04 15:19:01,924 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\alexj\Documents\dev\coursera-j2ee-workspace\Lab04_Servlet\src\main\resources
 2023-07-04 15:19:01,925 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2023-07-04 15:19:01,925 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\alexj\Documents\dev\coursera-j2ee-workspace\Lab04_Servlet\src\test\resources
+2023-07-04 15:19:13,320 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-04 15:19:13,320 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\alexj\Documents\dev\coursera-j2ee-workspace\Lab04_Servlet\src\main\resources
+2023-07-04 15:19:13,321 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-04 15:19:13,321 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\alexj\Documents\dev\coursera-j2ee-workspace\Lab04_Servlet\src\test\resources
+2023-07-04 15:22:22,764 [Worker-45: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-04 15:22:22,764 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\alexj\Documents\dev\coursera-j2ee-workspace\Lab04_Servlet\src\main\resources
+2023-07-04 15:22:22,765 [Worker-45: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-04 15:22:22,765 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\alexj\Documents\dev\coursera-j2ee-workspace\Lab04_Servlet\src\test\resources
+2023-07-04 15:22:27,003 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-04 15:22:27,003 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\alexj\Documents\dev\coursera-j2ee-workspace\Lab04_Servlet\src\main\resources
+2023-07-04 15:22:27,004 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-04 15:22:27,004 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\alexj\Documents\dev\coursera-j2ee-workspace\Lab04_Servlet\src\test\resources
+2023-07-04 15:23:31,066 [Worker-44: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-04 15:23:31,066 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\alexj\Documents\dev\coursera-j2ee-workspace\Lab04_Servlet\src\main\resources
+2023-07-04 15:23:31,067 [Worker-44: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-04 15:23:31,067 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\alexj\Documents\dev\coursera-j2ee-workspace\Lab04_Servlet\src\test\resources
+2023-07-04 15:23:53,205 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-04 15:23:53,205 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\alexj\Documents\dev\coursera-j2ee-workspace\Lab04_Servlet\src\main\resources
+2023-07-04 15:23:53,206 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-04 15:23:53,206 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\alexj\Documents\dev\coursera-j2ee-workspace\Lab04_Servlet\src\test\resources
+2023-07-04 15:23:55,231 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-04 15:23:55,231 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\alexj\Documents\dev\coursera-j2ee-workspace\Lab04_Servlet\src\main\resources
+2023-07-04 15:23:55,232 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-04 15:23:55,232 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\alexj\Documents\dev\coursera-j2ee-workspace\Lab04_Servlet\src\test\resources

@@ -4,3 +4,13 @@
 127.0.0.1 - - [04/Jul/2023:15:13:36 -0500] "GET / HTTP/1.1" 404 751
 127.0.0.1 - - [04/Jul/2023:15:13:36 -0500] "GET /Lab04_Servlet/index.html HTTP/1.1" 200 191
 127.0.0.1 - - [04/Jul/2023:15:13:40 -0500] "GET /Lab04_Servlet/Home?first_name=tony&last_name=stark HTTP/1.1" 200 170
+127.0.0.1 - - [04/Jul/2023:15:24:21 -0500] "GET / HTTP/1.1" 404 751
+127.0.0.1 - - [04/Jul/2023:15:24:21 -0500] "GET /Lab04_Servlet/index.html HTTP/1.1" 304 -
+127.0.0.1 - - [04/Jul/2023:15:24:28 -0500] "GET /Lab04_Servlet/Home?first_name=tony&last_name=stark HTTP/1.1" 200 260
+127.0.0.1 - - [04/Jul/2023:15:24:30 -0500] "GET /Lab04_Servlet/Home?redirect=yes HTTP/1.1" 302 -
+127.0.0.1 - - [04/Jul/2023:15:24:30 -0500] "GET /Lab01.5_Servlet/index.html HTTP/1.1" 404 781
+127.0.0.1 - - [04/Jul/2023:15:25:03 -0500] "GET / HTTP/1.1" 404 751
+127.0.0.1 - - [04/Jul/2023:15:25:06 -0500] "GET /Lab04_Servlet/Home?first_name=tony&last_name=stark HTTP/1.1" 200 260
+127.0.0.1 - - [04/Jul/2023:15:25:07 -0500] "GET /Lab04_Servlet/Home?redirect=yes HTTP/1.1" 302 -
+127.0.0.1 - - [04/Jul/2023:15:25:10 -0500] "GET /Lab04_Servlet/Home?first_name=tony&last_name=stark HTTP/1.1" 200 260
+127.0.0.1 - - [04/Jul/2023:15:25:12 -0500] "GET /Lab04_Servlet/Home?redirect=yes HTTP/1.1" 302 -
