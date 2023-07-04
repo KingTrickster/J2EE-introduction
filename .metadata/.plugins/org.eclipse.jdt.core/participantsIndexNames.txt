@@ -1,0 +1,3 @@
+INDEX VERSION 1.131
+C:\Users\alexj\Documents\dev\coursera-j2ee-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\892035235.index
+\Lab04_Servlet\src\main\java

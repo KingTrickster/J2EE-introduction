@@ -1,0 +1,7 @@
+INDEX VERSION 1.131+C:\Users\alexj\Documents\dev\coursera-j2ee-workspace\.metadata\.plugins\org.eclipse.jdt.core
+2871746284.index
+1123772883.index
+3389187607.index
+1584975770.index
+1865797976.index
+2579790138.index
