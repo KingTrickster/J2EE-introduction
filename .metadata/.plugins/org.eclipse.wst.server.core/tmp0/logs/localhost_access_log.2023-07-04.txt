@@ -14,3 +14,7 @@
 127.0.0.1 - - [04/Jul/2023:15:25:07 -0500] "GET /Lab04_Servlet/Home?redirect=yes HTTP/1.1" 302 -
 127.0.0.1 - - [04/Jul/2023:15:25:10 -0500] "GET /Lab04_Servlet/Home?first_name=tony&last_name=stark HTTP/1.1" 200 260
 127.0.0.1 - - [04/Jul/2023:15:25:12 -0500] "GET /Lab04_Servlet/Home?redirect=yes HTTP/1.1" 302 -
+127.0.0.1 - - [04/Jul/2023:15:44:42 -0500] "GET / HTTP/1.1" 404 751
+127.0.0.1 - - [04/Jul/2023:15:44:42 -0500] "GET /Lab05_ServletLifeCycle/LifeCycleServlet HTTP/1.1" 200 34
+127.0.0.1 - - [04/Jul/2023:15:46:23 -0500] "GET / HTTP/1.1" 404 751
+127.0.0.1 - - [04/Jul/2023:15:46:23 -0500] "GET /Lab05_ServletLifeCycle/LifeCycleServlet HTTP/1.1" 200 34
