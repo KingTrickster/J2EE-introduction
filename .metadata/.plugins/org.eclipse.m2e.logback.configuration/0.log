@@ -577,3 +577,88 @@ Caused by: org.eclipse.core.runtime.CoreException: One or more constraints have 
 2023-07-04 17:02:26,721 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\alexj\Documents\dev\coursera-j2ee-workspace\Lab06_HttpSession\src\main\resources
 2023-07-04 17:02:26,721 [Worker-64: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2023-07-04 17:02:26,722 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\alexj\Documents\dev\coursera-j2ee-workspace\Lab06_HttpSession\src\test\resources
+2023-07-04 17:17:43,164 [Worker-79: Enabling Maven Dependency Management] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: Lab07_Cookies:Lab07_Cookies:0.0.1-SNAPSHOT @ C:\Users\alexj\Documents\dev\coursera-j2ee-workspace\Lab07_Cookies\pom.xml.
+2023-07-04 17:17:43,178 [Worker-79: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Lab07_Cookies/src/main/java
+2023-07-04 17:17:43,178 [Worker-79: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Lab07_Cookies/src/test/java
+2023-07-04 17:17:43,254 [Worker-79: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-07-04 17:17:43,272 [Worker-79: Enabling Maven Dependency Management] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: Lab07_Cookies:Lab07_Cookies:0.0.1-SNAPSHOT @ C:\Users\alexj\Documents\dev\coursera-j2ee-workspace\Lab07_Cookies\pom.xml.
+2023-07-04 17:17:43,309 [Worker-79: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Lab07_Cookies/src/main/java
+2023-07-04 17:17:43,309 [Worker-79: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Lab07_Cookies/src/test/java
+2023-07-04 17:17:43,377 [Worker-79: Enabling Maven Dependency Management] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Lab07_Cookies
+2023-07-04 17:17:43,381 [Worker-79: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2023-07-04 17:17:43,820 [Worker-79: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-04 17:17:43,820 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\alexj\Documents\dev\coursera-j2ee-workspace\Lab07_Cookies\src\main\resources
+2023-07-04 17:17:43,821 [Worker-79: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-04 17:17:43,822 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\alexj\Documents\dev\coursera-j2ee-workspace\Lab07_Cookies\src\test\resources
+2023-07-04 17:17:43,822 [Worker-79: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Lab07_Cookies
+2023-07-04 17:17:43,822 [Worker-79: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Lab07_Cookies
+2023-07-04 17:17:43,823 [Worker-79: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-04 17:17:54,082 [Worker-66: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: Lab07_Cookies:Lab07_Cookies:0.0.1-SNAPSHOT @ C:\Users\alexj\Documents\dev\coursera-j2ee-workspace\Lab07_Cookies\pom.xml.
+2023-07-04 17:17:54,104 [Worker-66: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-04 17:17:54,105 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\alexj\Documents\dev\coursera-j2ee-workspace\Lab07_Cookies\src\main\resources
+2023-07-04 17:17:54,105 [Worker-66: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-04 17:17:54,106 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\alexj\Documents\dev\coursera-j2ee-workspace\Lab07_Cookies\src\test\resources
+2023-07-04 17:17:54,106 [Worker-66: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Lab07_Cookies
+2023-07-04 17:17:54,106 [Worker-66: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Lab07_Cookies
+2023-07-04 17:17:54,106 [Worker-66: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-04 17:18:00,381 [Worker-77: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-07-04 17:18:00,400 [Worker-77: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: Lab07_Cookies:Lab07_Cookies:0.0.1-SNAPSHOT @ C:\Users\alexj\Documents\dev\coursera-j2ee-workspace\Lab07_Cookies\pom.xml.
+2023-07-04 17:18:00,417 [Worker-77: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Lab07_Cookies/src/main/java
+2023-07-04 17:18:00,417 [Worker-77: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Lab07_Cookies/src/test/java
+2023-07-04 17:18:00,450 [Worker-77: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Lab07_Cookies
+2023-07-04 17:18:00,452 [Worker-77: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2023-07-04 17:18:00,593 [Worker-66: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-04 17:18:00,593 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\alexj\Documents\dev\coursera-j2ee-workspace\Lab07_Cookies\src\main\resources
+2023-07-04 17:18:00,594 [Worker-66: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-04 17:18:00,594 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\alexj\Documents\dev\coursera-j2ee-workspace\Lab07_Cookies\src\test\resources
+2023-07-04 17:18:00,594 [Worker-66: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Lab07_Cookies
+2023-07-04 17:18:00,594 [Worker-66: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Lab07_Cookies
+2023-07-04 17:18:00,595 [Worker-66: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-04 17:18:21,472 [Worker-83: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-04 17:18:21,473 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\alexj\Documents\dev\coursera-j2ee-workspace\Lab07_Cookies\src\main\resources
+2023-07-04 17:18:21,473 [Worker-83: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-04 17:18:21,474 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\alexj\Documents\dev\coursera-j2ee-workspace\Lab07_Cookies\src\test\resources
+2023-07-04 17:20:01,064 [Worker-77: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-04 17:20:01,065 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\alexj\Documents\dev\coursera-j2ee-workspace\Lab07_Cookies\src\main\resources
+2023-07-04 17:20:01,065 [Worker-77: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-04 17:20:01,066 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\alexj\Documents\dev\coursera-j2ee-workspace\Lab07_Cookies\src\test\resources
+2023-07-04 17:20:12,973 [Worker-77: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-04 17:20:12,974 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\alexj\Documents\dev\coursera-j2ee-workspace\Lab07_Cookies\src\main\resources
+2023-07-04 17:20:12,974 [Worker-77: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-04 17:20:12,975 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\alexj\Documents\dev\coursera-j2ee-workspace\Lab07_Cookies\src\test\resources
+2023-07-04 17:20:18,276 [Worker-82: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-04 17:20:18,277 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\alexj\Documents\dev\coursera-j2ee-workspace\Lab07_Cookies\src\main\resources
+2023-07-04 17:20:18,277 [Worker-82: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-04 17:20:18,278 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\alexj\Documents\dev\coursera-j2ee-workspace\Lab07_Cookies\src\test\resources
+2023-07-04 17:20:50,656 [Worker-83: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-04 17:20:50,657 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\alexj\Documents\dev\coursera-j2ee-workspace\Lab07_Cookies\src\main\resources
+2023-07-04 17:20:50,657 [Worker-83: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-04 17:20:50,658 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\alexj\Documents\dev\coursera-j2ee-workspace\Lab07_Cookies\src\test\resources
+2023-07-04 17:21:08,777 [Worker-78: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-04 17:21:08,778 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\alexj\Documents\dev\coursera-j2ee-workspace\Lab07_Cookies\src\main\resources
+2023-07-04 17:21:08,778 [Worker-78: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-04 17:21:08,779 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\alexj\Documents\dev\coursera-j2ee-workspace\Lab07_Cookies\src\test\resources
+2023-07-04 17:21:29,256 [Worker-83: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-04 17:21:29,257 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\alexj\Documents\dev\coursera-j2ee-workspace\Lab07_Cookies\src\main\resources
+2023-07-04 17:21:29,258 [Worker-83: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-04 17:21:29,258 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\alexj\Documents\dev\coursera-j2ee-workspace\Lab07_Cookies\src\test\resources
+2023-07-04 18:02:12,088 [Worker-78: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-04 18:02:12,088 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\alexj\Documents\dev\coursera-j2ee-workspace\Lab07_Cookies\src\main\resources
+2023-07-04 18:02:12,089 [Worker-78: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-04 18:02:12,089 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\alexj\Documents\dev\coursera-j2ee-workspace\Lab07_Cookies\src\test\resources
+2023-07-04 18:04:53,175 [Worker-88: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-04 18:04:53,175 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\alexj\Documents\dev\coursera-j2ee-workspace\Lab07_Cookies\src\main\resources
+2023-07-04 18:04:53,176 [Worker-88: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-04 18:04:53,176 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\alexj\Documents\dev\coursera-j2ee-workspace\Lab07_Cookies\src\test\resources
+2023-07-04 18:05:09,234 [Worker-88: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-04 18:05:09,234 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\alexj\Documents\dev\coursera-j2ee-workspace\Lab07_Cookies\src\main\resources
+2023-07-04 18:05:09,235 [Worker-88: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-04 18:05:09,235 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\alexj\Documents\dev\coursera-j2ee-workspace\Lab07_Cookies\src\test\resources
+2023-07-04 18:08:17,403 [Worker-84: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-04 18:08:17,403 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\alexj\Documents\dev\coursera-j2ee-workspace\Lab07_Cookies\src\main\resources
+2023-07-04 18:08:17,404 [Worker-84: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-04 18:08:17,404 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\alexj\Documents\dev\coursera-j2ee-workspace\Lab07_Cookies\src\test\resources
+2023-07-04 18:08:58,830 [Worker-84: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-04 18:08:58,831 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\alexj\Documents\dev\coursera-j2ee-workspace\Lab07_Cookies\src\main\resources
+2023-07-04 18:08:58,831 [Worker-84: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-07-04 18:08:58,832 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\alexj\Documents\dev\coursera-j2ee-workspace\Lab07_Cookies\src\test\resources

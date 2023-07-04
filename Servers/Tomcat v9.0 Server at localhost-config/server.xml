@@ -160,7 +160,7 @@
              Note: The pattern used is equivalent to using pattern="common" -->
         <Valve className="org.apache.catalina.valves.AccessLogValve" directory="logs" pattern="%h %l %u %t &quot;%r&quot; %s %b" prefix="localhost_access_log" suffix=".txt"/>
 
-      <Context docBase="Lab03_BasicServlet" path="/Lab03_BasicServlet" reloadable="true" source="org.eclipse.jst.jee.server:Lab03_BasicServlet"/><Context docBase="Lab04_Servlet" path="/Lab04_Servlet" reloadable="true" source="org.eclipse.jst.jee.server:Lab04_Servlet"/><Context docBase="Lab05_ServletLifeCycle" path="/Lab05_ServletLifeCycle" reloadable="true" source="org.eclipse.jst.jee.server:Lab05_ServletLifeCycle"/><Context docBase="Lab06_HttpSession" path="/Lab06_HttpSession" reloadable="true" source="org.eclipse.jst.jee.server:Lab06_HttpSession"/></Host>
+      <Context docBase="Lab03_BasicServlet" path="/Lab03_BasicServlet" reloadable="true" source="org.eclipse.jst.jee.server:Lab03_BasicServlet"/><Context docBase="Lab04_Servlet" path="/Lab04_Servlet" reloadable="true" source="org.eclipse.jst.jee.server:Lab04_Servlet"/><Context docBase="Lab05_ServletLifeCycle" path="/Lab05_ServletLifeCycle" reloadable="true" source="org.eclipse.jst.jee.server:Lab05_ServletLifeCycle"/><Context docBase="Lab06_HttpSession" path="/Lab06_HttpSession" reloadable="true" source="org.eclipse.jst.jee.server:Lab06_HttpSession"/><Context docBase="Lab07_Cookies" path="/Lab07_Cookies" reloadable="true" source="org.eclipse.jst.jee.server:Lab07_Cookies"/></Host>
     </Engine>
   </Service>
 </Server>

@@ -26,3 +26,10 @@
 127.0.0.1 - - [04/Jul/2023:17:02:53 -0500] "POST /Lab06_HttpSession/shop HTTP/1.1" 200 166
 127.0.0.1 - - [04/Jul/2023:17:02:55 -0500] "POST /Lab06_HttpSession/shop HTTP/1.1" 200 183
 127.0.0.1 - - [04/Jul/2023:17:02:57 -0500] "POST /Lab06_HttpSession/shop HTTP/1.1" 200 183
+127.0.0.1 - - [04/Jul/2023:18:05:39 -0500] "GET / HTTP/1.1" 404 751
+127.0.0.1 - - [04/Jul/2023:18:05:39 -0500] "GET /Lab07_Cookies/CookieMonster HTTP/1.1" 200 25
+127.0.0.1 - - [04/Jul/2023:18:05:42 -0500] "GET /Lab07_Cookies/CookieMonster HTTP/1.1" 200 25
+127.0.0.1 - - [04/Jul/2023:18:06:21 -0500] "GET /Lab07_Cookies/CookieMonster HTTP/1.1" 200 25
+127.0.0.1 - - [04/Jul/2023:18:09:11 -0500] "GET / HTTP/1.1" 404 751
+127.0.0.1 - - [04/Jul/2023:18:09:11 -0500] "GET /Lab07_Cookies/index.html HTTP/1.1" 200 456
+127.0.0.1 - - [04/Jul/2023:18:09:13 -0500] "POST /Lab07_Cookies/CookieMonster HTTP/1.1" 200 -
