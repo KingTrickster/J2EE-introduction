@@ -33,3 +33,12 @@
 127.0.0.1 - - [04/Jul/2023:18:09:11 -0500] "GET / HTTP/1.1" 404 751
 127.0.0.1 - - [04/Jul/2023:18:09:11 -0500] "GET /Lab07_Cookies/index.html HTTP/1.1" 200 456
 127.0.0.1 - - [04/Jul/2023:18:09:13 -0500] "POST /Lab07_Cookies/CookieMonster HTTP/1.1" 200 -
+127.0.0.1 - - [04/Jul/2023:18:31:58 -0500] "GET / HTTP/1.1" 404 751
+127.0.0.1 - - [04/Jul/2023:18:31:58 -0500] "GET /Lab08_HttpSession/index.html HTTP/1.1" 200 426
+127.0.0.1 - - [04/Jul/2023:18:31:58 -0500] "GET /favicon.ico HTTP/1.1" 404 762
+127.0.0.1 - - [04/Jul/2023:18:32:02 -0500] "POST /Lab08_HttpSession/Home HTTP/1.1" 200 426
+127.0.0.1 - - [04/Jul/2023:18:32:04 -0500] "GET /Lab08_HttpSession/Home HTTP/1.1" 200 426
+127.0.0.1 - - [04/Jul/2023:18:32:11 -0500] "POST /Lab08_HttpSession/Home HTTP/1.1" 200 174
+127.0.0.1 - - [04/Jul/2023:18:32:43 -0500] "GET /Lab08_HttpSession/Logout HTTP/1.1" 200 426
+127.0.0.1 - - [04/Jul/2023:18:32:49 -0500] "POST /Lab08_HttpSession/Home HTTP/1.1" 200 426
+127.0.0.1 - - [04/Jul/2023:18:32:53 -0500] "POST /Lab08_HttpSession/Home HTTP/1.1" 200 426
